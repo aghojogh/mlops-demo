@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pt
+mlruns/
+data/
+.pytest_cache/
+
+mlflow.db
+mlartifacts/
+
+mlflow.db
+mlartifacts/

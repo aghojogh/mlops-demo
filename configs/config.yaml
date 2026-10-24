@@ -1,0 +1,6 @@
+seed: 42
+lr: 0.001
+epochs: 20
+batch_size: 64
+hidden_size: 64
+model_path: model.pt

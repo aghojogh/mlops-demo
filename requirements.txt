@@ -1,0 +1,9 @@
+torch
+scikit-learn
+pyyaml
+mlflow
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
