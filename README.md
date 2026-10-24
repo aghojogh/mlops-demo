@@ -1,3 +1,4 @@
+![CI](https://github.com/aghojogh/mlops-demo/actions/workflows/ci.yml/badge.svg)
 # mlops-demo
 
 Digit classifier (PyTorch) with experiment tracking (MLflow), tests (pytest),
